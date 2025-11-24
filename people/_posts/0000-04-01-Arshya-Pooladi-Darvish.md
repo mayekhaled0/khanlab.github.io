@@ -19,4 +19,4 @@ layout: post
 ---
 ### About
 
-I am a graduate student with a research focus in neuroimaging of disease states. My work spans a number of projects including developing tools for subpopulation-specific cell quantification in light-sheet microscopy images, characterizing MRI-detectable neurodegeneration in multiple sclerosis and its relation to cognitive decline, and analyzing structional and functional brain changes associated with epilepsy.
+I am a graduate student with a research focus in neuroimaging of disease states. My work spans a number of projects including developing tools for subpopulation-specific cell quantification in light-sheet microscopy images, characterizing MRI-detectable neurodegeneration in multiple sclerosis and its relation to cognitive decline, and analyzing structural and functional brain changes associated with epilepsy.

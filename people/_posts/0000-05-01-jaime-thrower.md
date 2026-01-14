@@ -10,6 +10,9 @@ alumni: false
 # social
 email: jthrowe3@uwo.ca
 github: thrower19
+orcid:
+scholar: 
+twitter: 
 
 # page settings:
 layout: post
